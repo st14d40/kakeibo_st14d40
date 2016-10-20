@@ -2,4 +2,4 @@
 #define _INCLUDE_AVERAGE_H_
 
 int average(int []);
-#endif // _INCLUDE_AVERAGE_H_
+#endif // _INCLUDE_AVERAGE_H_ 
