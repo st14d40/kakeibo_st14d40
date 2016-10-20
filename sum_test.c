@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include"average.h"
+#include"sum.h"
 
 int main(void){
 	int payments[5] = {1,2,3,4,5};
