@@ -11,7 +11,5 @@ int sum(int payments[])
 		result = result + payments[i];
 		}
 
-	result = result/5;
-
 	return result;
 }
